@@ -1,2 +1,2 @@
 # myprojects
-Personal projects
+Personal projects include "Pandas + Matplotlib + other visualization libraries"
